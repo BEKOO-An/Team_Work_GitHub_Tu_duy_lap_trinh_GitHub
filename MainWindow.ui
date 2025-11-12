@@ -168,7 +168,7 @@ background-color: rgb(255, 255, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>../../TUDUYLAPTRINH/sales_report/images/calculate.png</normaloff>../../TUDUYLAPTRINH/sales_report/images/calculate.png</iconset>
+      <normaloff>../sales_report/images/calculate.png</normaloff>../sales_report/images/calculate.png</iconset>
     </property>
    </widget>
    <widget class="QPushButton" name="pushButtonClear">
@@ -204,10 +204,10 @@ background-color: rgb(255, 255, 0);</string>
     </property>
     <property name="icon">
      <iconset>
-      <normaloff>../../TUDUYLAPTRINH/learn_gui/fibo_gui/images/close.png</normaloff>../../TUDUYLAPTRINH/learn_gui/fibo_gui/images/close.png</iconset>
+      <normaloff>../learn_gui/fibo_gui/images/close.png</normaloff>../learn_gui/fibo_gui/images/close.png</iconset>
     </property>
    </widget>
-   <widget class="QLabel" name="label_6">
+   <widget class="QLabel" name="labelImage">
     <property name="geometry">
      <rect>
       <x>930</x>
