@@ -1,6 +1,5 @@
 import math
 def PTB2(a,b,c):
-    print("{0}x^2 + {1}x + {2} = 0".format(a,b,c))
     if a!=0:
         d=b**2-4*a*c
         if d<0:
